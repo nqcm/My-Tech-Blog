@@ -14,7 +14,7 @@ disqusShortname: blog-naveeraashraf-com
 
 minify:
   disableXML: true
-  minifyOutput: true
+  # minifyOutput: true
 
 # languages:
 #   en:
@@ -129,8 +129,6 @@ params:
   ShowCodeCopyButtons: true
   # ShowToc: true
   comments: true
-  cover:
-    hidden: true
   images: ["papermod-cover.png"]
 
   profileMode:
@@ -184,13 +182,14 @@ params:
 
   assets:
     favicon: "/favicon.ico"
-  #     favicon16x16: "<link / abs url>"
-  #     favicon32x32: "<link / abs url>"
-  #     apple_touch_icon: "<link / abs url>"
-  #     safari_pinned_tab: "<link / abs url>"
+    #     favicon16x16: "<link / abs url>"
+    #     favicon32x32: "<link / abs url>"
+    #     apple_touch_icon: "<link / abs url>"
+    #     safari_pinned_tab: "<link / abs url>"
+    disableFingerprinting: true
 
-  # cover:
-  #   hidden: true # hide everywhere but not in structured data
+  cover:
+    hidden: true # hide everywhere but not in structured data
   #   hiddenInList: true # hide on list pages and home
   #   hiddenInSingle: true # hide on single page
 

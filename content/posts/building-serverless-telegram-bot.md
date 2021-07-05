@@ -2,7 +2,7 @@
 title: "🚀 Building a Telegram Bot with AWS API Gateway and AWS Lambda"
 date: 2018-11-18T09:45:28+02:00
 tags: ["Bots", "Telegram", "AWS", "Lambda", "API Gateway", "Python"]
-summary: In this guide I will demonstrate making a simple serveless Telegram bot that echoes everything a user inputs, using AWS API Gateway and AWS Lambda. &#35Bots &#35Telegram &#35AWS &#35Lambda &#35Python
+summary: In this guide I will demonstrate making a simple serveless Telegram bot that echoes everything a user inputs, using AWS API Gateway and AWS Lambda.
 cover:
   image: "/img/telegram-bot-aws/telegram-bot-with-aws-lambda.png"
   alt: "Image of a bot with computer"
