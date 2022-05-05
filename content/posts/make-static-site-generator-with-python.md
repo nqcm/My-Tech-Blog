@@ -9,7 +9,9 @@ cover:
 
 Static site generators are a secure and fast alternative to traditional content management systems like Wordpress.
 
-Static Site Generators or SSG are pretty simple to use once you get the hang of them. But initially there may be a learning curve. One way of learning (my preferred way) is to look under the hood and see how things work and try to recreate them. With this end goal in mind we will create our own static site generator using Python. Plus it is a lot of fun to make.
+Static Site Generators or SSG are pretty simple to use once you get the hang of them. But initially there may be a learning curve. One way of learning (my preferred way) is to look under the hood and see how things work and try to recreate them. So when I saw [this post](https://rahmonov.me/posts/static-site-generator/) I wanted to create my own static site generator using Python.
+
+It turned out to be a lot of fun to make!
 
 If you are new to static site generators, you can first read about [what is a static site generator](https://davidwalsh.name/introduction-static-site-generators), [when to use one](https://learn.cloudcannon.com/jekyll/why-use-a-static-site-generator/), and [when not to use one](https://www.sitepoint.com/7-reasons-not-use-static-site-generator/). Also have a look at [a list of many static site generators](https://github.com/myles/awesome-static-generators) written in different programming languages.
 

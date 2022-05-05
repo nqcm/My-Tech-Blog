@@ -117,6 +117,8 @@ params:
   keywords: [Blog, Python, Chatbots, API, HTML5, games]
   author: Naveera Ashraf
   # author: ["Me", "You"] # multiple authors
+  ShowFullTextinRSS: true
+  rssLimit: 10
 
   defaultTheme: auto
   disableThemeToggle: false
@@ -129,13 +131,13 @@ params:
   ShowCodeCopyButtons: true
   # ShowToc: true
   comments: true
-  images: ["papermod-cover.png"]
+  images: ["/naveera-blog.jpg"]
 
   profileMode:
     enabled: false
     title: Blog | Naveera Ashraf
-    imageUrl: "#"
-    imageTitle: my image
+    imageUrl: "/img/naveera-blog.jpg"
+    imageTitle: Blog by Naveera Ashraf
     # imageWidth: 120
     # imageHeight: 120
     buttons:
